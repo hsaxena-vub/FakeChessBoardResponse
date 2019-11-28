@@ -1,0 +1,19 @@
+{
+  "clients": [
+    {
+      "id": "59761c23b30d971669fb42ff",
+      "isActive": true,
+      "age": 36,
+    },
+    {
+      "id": "59761c233d8d0f92a6b0570d",
+      "isActive": true,
+      "age": 24,
+    },
+    {
+      "id": "59761c23fcb6254b1a06dad5",
+      "isActive": true,
+      "age": 30,
+    }
+  ]
+}
