@@ -1,18 +1,14 @@
 {
   "clients": [
     {
-      "id": "Move",
+      "id": "59761c23fcb6254b1a06dad5",
       "isActive": true,
-      "address": "169 Rutledge Street, Konterra, Northern Mariana Islands, 8551"
-    },
-    {
-      "id": "Revert",
-      "isActive": true,
-      "address": "886 Gallatin Place, Fannett, Arkansas, 4656"
-    },
-    {
-      "id": "Test",
-      "isActive": true,
+      "age": 30,
+      "name": "Acosta Robbins",
+      "gender": "male",
+      "company": "ORGANICA",
+      "email": "acostarobbins@organica.com",
+      "phone": "+1 (882) 441-3367",
       "address": "697 Linden Boulevard, Sattley, Idaho, 1035"
     }
   ]
