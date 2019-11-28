@@ -1,11 +1,1 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{"word":"fretful","score":398,"numSyllables":2},{"word":"regretful","score":306,"numSyllables":3},{"word":"threatful","score":130,"numSyllables":2},{"word":"netful","score":28,"numSyllables":2},{"word":"let phil","numSyllables":2},{"word":"met phil","numSyllables":2},{"word":"set fill","numSyllables":2}]
