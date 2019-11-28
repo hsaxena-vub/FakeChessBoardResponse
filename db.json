@@ -1,15 +1,5 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-    {
-      "id": 2,
-      "title": "hello again"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+"employees":[
+  {"firstName":"John", "lastName":"Doe"},
+  {"firstName":"Anna", "lastName":"Smith"},
+  {"firstName":"Peter", "lastName":"Jones"}
+]
