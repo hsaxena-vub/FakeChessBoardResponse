@@ -1,9 +1,9 @@
 {
-  "clients": [
+  "instruction": [
     {
-      "id": "5976aa5",
-      "email": "acostarobbins@organica.com",
-      "address": "697 Linden Boulevard, Sattley, Idaho, 1035"
+      "command": "Move",
+      "startposition": "Start",
+      "endposition": "End"
     }
   ]
 }
