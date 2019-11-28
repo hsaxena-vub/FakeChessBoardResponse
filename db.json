@@ -1,12 +1,12 @@
 {
   "clients": [
     {
-      "instructction": "Move",
+      "instruction": "Move",
       "startposition": "TBC",
       "endposition": "TBC",
     },
     {
-      "instructction": "59761c233d8d0f92a6b0570d",
+      "instruction": "59761c233d8d0f92a6b0570d",
       "startposition": "TBC",
       "endposition": "TBC",
     }
