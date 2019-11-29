@@ -10,7 +10,7 @@
       "command": "Move",
       "startposition": "A1",
       "endposition": "B2",
-      "responseofcommand" : "Such move not allowed"
+      "responseofcommand" : "Such move is not allowed"
     }
   ]
 }
