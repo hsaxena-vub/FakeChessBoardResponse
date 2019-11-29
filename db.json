@@ -8,8 +8,8 @@
     },
     {
       "command": "Move",
-      "startposition": "A10",
-      "endposition": "B10",
+      "startposition": "A1",
+      "endposition": "B2",
       "responseofcommand" : "Such move not allowed"
     }
   ]
