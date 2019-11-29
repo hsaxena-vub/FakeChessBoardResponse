@@ -2,8 +2,15 @@
   "instruction": [
     {
       "command": "Move",
-      "startposition": "Start",
-      "endposition": "End"
+      "startposition": "A5",
+      "endposition": "B5",
+      "responseofcommand" : "Moved as instructed"
+    },
+    {
+      "command": "Move",
+      "startposition": "A10",
+      "endposition": "B10",
+      "responseofcommand" : "Such move not allowed"
     }
   ]
 }
