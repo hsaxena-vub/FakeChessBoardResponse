@@ -1,13 +1,13 @@
 {
   "instruction": [
     {
-      "command": "Move",
+      "command": "MOVE",
       "startposition": "A5",
       "endposition": "B5",
       "responseofcommand" : "Moved as instructed"
     },
     {
-      "command": "Move",
+      "command": "MOVE",
       "startposition": "A1",
       "endposition": "B2",
       "responseofcommand" : "Such move is not allowed"
