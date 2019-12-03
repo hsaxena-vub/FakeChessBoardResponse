@@ -17,6 +17,12 @@
       "startposition": "A1",
       "endposition": "B2",
       "responseofcommand" : "Moved as instructed"
+    },
+    {
+      "command": "MOVE",
+      "startposition": "A1",
+      "endposition": "A2",
+      "responseofcommand" : "Such move is not allowed"
     }
   ]
 }
