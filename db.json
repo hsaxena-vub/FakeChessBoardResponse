@@ -26,8 +26,8 @@
     },
     {
       "command" : "MOVE",
-      "startposition" : "D2"
-      "endposition" : "D5"
+      "startposition" : "D2",
+      "endposition" : "D5",
       "responseofcommand" :  " Invalid move"
     }
   ]
