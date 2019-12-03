@@ -25,9 +25,9 @@
       "responseofcommand" : "Such move is not allowed"
     },
     {
-      "command" : "MOVE",
-      "startposition" : "D2",
-      "endposition" : "D5",
+      "command": "MOVE",
+      "startposition": "D2",
+      "endposition": "D5",
       "responseofcommand" :  " Invalid move"
     }
   ]
