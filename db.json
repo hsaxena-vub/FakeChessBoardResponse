@@ -11,12 +11,6 @@
       "startposition": "C1",
       "endposition": "C5",
       "responseofcommand" : "Such move is not allowed"
-    },
-     {
-      "command": "MOVE",
-      "startposition": "A1",
-      "endposition": "A2",
-      "responseofcommand" : "Move as instructed"
     }
   ]
 }
